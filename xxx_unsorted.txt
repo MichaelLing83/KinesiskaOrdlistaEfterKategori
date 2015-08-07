@@ -1,58 +1,58 @@
 一	en, ett	yi1	.	grundtal
-二  två er4 . grundtal
-三  tre san1  . grundtal
-四  fyra  si4 . grundtal
-五  fem wu3 . grundtal
-六  sex liu4  . grundtal
-七  sju qi1 . grundtal
-八  åtta  ba1 . grundtal
-九  nio jiu3  . grundtal
-十  tio shi2  . grundtal
-零  null  ling2 . grundtal
-十一  elva  shi2yi1 . grundtal
-十二  tolv  shi2er4 . grundtal
-十三  tretton  shi2san1  . grundtal
-十四  fjorton shi2si4 . grundtal
-十五  femton  shi2wu3 . grundtal
-十六  sexton  shi2liu4  . grundtal
-十七  sjutton shi2qi1 . grundtal
-十八  arton shi2ba1 . grundtal
-十九  nitton  shi2jiu3  . grundtal
-二十  tjugo er4shi2 . grundtal
-三十  trettio san1shi2  . grundtal
-四十  fyrtio  si4shi2 . grundtal
-五十  femtio  wu3shi2 . grundtal
-六十  sextio  liu4shi2  . grundtal
-七十  sjuttio qi1shi2 . grundtal
-八十  åttio ba1shi2 . grundtal
-九十  nittio  jiu3shi2  . grundtal
-一百  ett hundra  yi4bai3 . grundtal
-一百零一  etthundraett  yi4bai3ling2yi1 . grundtal
-一百零二  etthundratvå  yi4bai3ling2er4 . grundtal
-一百一十  etthundratio  yi4bai3yi1shi2  . grundtal
-一百九十九  etthundranittionio  yi4bai3jiu3shi2jiu3 . grundtal
-一千  tusen yi4qian1  . grundtal
-一万  tio tusen yi2wan4 . grundtal
-十万  hundra tusen  shi2wan4  . grundtal
-百万  en miljon bai3wan4  . grundtal
-千万  tio miljon  qian1wan4 . grundtal
-一亿  hundra miljon yi2yi4  . grundtal
-十亿  en miljard  shi2yi4 . grundtal
-百亿  tio miljard bai3yi4 . grundtal
-千亿  hundra miljard  qian1yi4  . grundtal
-万亿  tusen miljard wan4yi4 . grundtal
-十万亿  tio tusen miljard shi2wan4yi4 . grundtal
-百万亿  hundra tusen miljard  bai3wan4yi4 . grundtal
-千万亿  miljon miljard  qian1wan4yi4  . grundtal
-壹  en, ett yi1 används på en bank  grundtal
-贰  två er4 används på en bank  grundtal
-叁  tre san1  används på en bank  grundtal
-肆  fyra  si4 används på en bank  grundtal
-伍  fem wu3 används på en bank  grundtal
-陆  sex liu4  används på en bank  grundtal
-柒  sju qi1 används på en bank  grundtal
-捌  åtta  ba1 används på en bank  grundtal
-玖  nio jiu3  används på en bank  grundtal
-拾  tio shi2  används på en bank  grundtal
-佰  hundra  bai3  används på en bank  grundtal
-仟  tusen qian1 används på en bank  grundtal
+二	två	er4	.	grundtal
+三	tre	san1	.	grundtal
+四	fyra	si4	.	grundtal
+五	fem	wu3	.	grundtal
+六	sex	liu4	.	grundtal
+七	sju	qi1	.	grundtal
+八	åtta	ba1	.	grundtal
+九	nio	jiu3	.	grundtal
+十	tio	shi2	.	grundtal
+零	null	ling2	.	grundtal
+十一	elva	shi2yi1	.	grundtal
+十二	tolv	shi2er4	.	grundtal
+十三	tretton	shi2san1	.	grundtal
+十四	fjorton	shi2si4	.	grundtal
+十五	femton	shi2wu3	.	grundtal
+十六	sexton	shi2liu4	.	grundtal
+十七	sjutton	shi2qi1	.	grundtal
+十八	arton	shi2ba1	.	grundtal
+十九	nitton	shi2jiu3	.	grundtal
+二十	tjugo	er4shi2	.	grundtal
+三十	trettio	san1shi2	.	grundtal
+四十	fyrtio	si4shi2	.	grundtal
+五十	femtio	wu3shi2	.	grundtal
+六十	sextio	liu4shi2	.	grundtal
+七十	sjuttio	qi1shi2	.	grundtal
+八十	åttio	ba1shi2	.	grundtal
+九十	nittio	jiu3shi2	.	grundtal
+一百	ett hundra	yi4bai3	.	grundtal
+一百零一	etthundraett	yi4bai3ling2yi1	.	grundtal
+一百零二	etthundratvå	yi4bai3ling2er4	.	grundtal
+一百一十	etthundratio	yi4bai3yi1shi2	.	grundtal
+一百九十九	etthundranittionio	yi4bai3jiu3shi2jiu3	.	grundtal
+一千	tusen	yi4qian1	.	grundtal
+一万	tio tusen	yi2wan4	.	grundtal
+十万	hundra tusen	shi2wan4	.	grundtal
+百万	en miljon	bai3wan4	.	grundtal
+千万	tio miljon	qian1wan4	.	grundtal
+一亿	hundra miljon	yi2yi4	.	grundtal
+十亿	en miljard	shi2yi4	.	grundtal
+百亿	tio miljard	bai3yi4	.	grundtal
+千亿	hundra miljard	qian1yi4	.	grundtal
+万亿	tusen miljard	wan4yi4	.	grundtal
+十万亿	tio tusen miljard	shi2wan4yi4	.	grundtal
+百万亿	hundra tusen miljard	bai3wan4yi4	.	grundtal
+千万亿	miljon miljard	qian1wan4yi4	.	grundtal
+壹	en, ett	yi1	används på en bank	grundtal
+贰	två	er4	används på en bank	grundtal
+叁	tre	san1	används på en bank	grundtal
+肆	fyra	si4	används på en bank	grundtal
+伍	fem	wu3	används på en bank	grundtal
+陆	sex	liu4	används på en bank	grundtal
+柒	sju	qi1	används på en bank	grundtal
+捌	åtta	ba1	används på en bank	grundtal
+玖	nio	jiu3	används på en bank	grundtal
+拾	tio	shi2	används på en bank	grundtal
+佰	hundra	bai3	används på en bank	grundtal
+仟	tusen	qian1	används på en bank	grundtal
