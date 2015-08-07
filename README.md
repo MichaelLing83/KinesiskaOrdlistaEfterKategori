@@ -2,7 +2,7 @@
 För lektion på Memrise (http://www.memrise.com/course/749344/kinesiska-ordlista-efter-kategori/).
 
 ## File names
-All files are named as <3-digit-number>_<title>.txt, one for each level in the course. For files whose level is not decided, xxx is used for the <3-digit-number> part. And there is a "xxx_unsorted.txt" to hold all word entries that have not been moved to a level.
+All files are named as ```<3-digit-number>_<title>.txt```, one for each level in the course. For files whose level is not decided, xxx is used for the ```<3-digit-number>``` part. And there is a "xxx_unsorted.txt" to hold all word entries that have not been moved to a level.
 
 ## File formats
 * each line is one word entry
